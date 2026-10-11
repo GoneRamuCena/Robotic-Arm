@@ -132,5 +132,5 @@ These are potential future enhancements and are not claimed as implemented featu
 * CAD-based Mechanical Design
 * Wireless Serial Communication
 
-
+**Note : Go through the Project Details section for more details**
 
