@@ -111,7 +111,8 @@ This approach eliminates the need for a direct wired control interface between t
 
 Successfully developed a **mobile-controlled 4-DOF robotic arm using an Arduino Mega and an HC-05 Bluetooth module**.
 
-
+## 🎥 Project Demo
+[![Watch Project Demo](https://www.linkedin.com/posts/gone-ramu-2155092b2_robotic-arm-project-assignment-for-skyfi-ugcPost-7495357785946288128-Uleu/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEsumfEBdfpbRoL04rRFCpsATJalW3cUVUA)
 
 ## 🚀 Future Improvements
 
@@ -132,6 +133,4 @@ These are potential future enhancements and are not claimed as implemented featu
 * Wireless Serial Communication
 
 
----
 
-⭐ If you find this project interesting, consider starring the repository!
